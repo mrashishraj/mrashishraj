@@ -1,6 +1,5 @@
 ### Hi there 👋
-https://mrashishraj.github.io/github-profile-readme-generator/images/banner.png
-
+[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=mrashsihraj)](https://github.com/mrashishraj/github-readme-stats)
 <!--
 **mrashishraj/mrashishraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
