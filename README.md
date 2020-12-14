@@ -1,18 +1,17 @@
 ### Hi there 👋
+
+### A dedicated and passionate full stack developer trained and skilled in MERN stack at Masai school,
+### looking forward to join a startup where I can enhance my skills and can become an asset to the organisation.
+
+
+- 🔭 I’m a MERN stack developer aspiring full stack developer.
+- 🌱 I’m graduated from Masai School as Fullstack developer.
+- 👯 I’m looking React developer Job.
+- 💬 I’m from Bhopal, MP India.
+- 📫 My Email ID is (mr.ashishrajyadav@gmail.com) contact no (+91 8269265211).
+- ⚡ Take a look of my portfolio and resume for more information here..(https://mrashishraj.github.io/My-Portfolio/).
+
+
+
 ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=mrashishraj&show_icons=true&theme=radical)
 
-
-
-**mrashishraj/mrashishraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
