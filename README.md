@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=mrashishraj)](https://github.com/anuraghazra/github-readme-stats)<!--
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=mrashishraj&show_icons=true&theme=dark)
+
+
+
 **mrashishraj/mrashishraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
