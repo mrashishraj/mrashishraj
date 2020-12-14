@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=mrashishraj&show_icons=true&theme=dark)
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=mrashishraj&show_icons=true&theme=radical)
 
 
 
